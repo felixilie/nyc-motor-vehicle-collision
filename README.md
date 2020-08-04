@@ -1,2 +1,2 @@
 # nyc-motor-vehicle-collision
-Data analysis of motor vehicle collision in NYC
+Data analysis of motor vehicle collisions in NYC
